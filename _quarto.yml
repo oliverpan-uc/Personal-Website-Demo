@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "140XP Personal Website"
+  title: "Oliver Pan"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -16,6 +16,11 @@ format:
       - brand
     css: styles.css
     toc: true
+    
+execute: 
+  freeze: auto
+
+
 
 
 

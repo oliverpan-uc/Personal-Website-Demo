@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "140XP Personal Website",
+    "title": "Oliver Pan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.33293792 0.04438959 0.87607184 0.68503793 0.77063540 0.53729237\n [7] 0.69523886 0.14417738 0.96869391 0.47433225"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Oliver Pan",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Oliver Pan",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
