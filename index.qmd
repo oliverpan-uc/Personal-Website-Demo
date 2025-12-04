@@ -11,23 +11,29 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/oliver-pan-07373a2b9/
-
+    - icon: Gmail
+      text: Email
+      url: "mailto:oliverpan@g.ucla.edu"
+    - icon: Resume
+      text: CV
+      url: "Resume.pdf"
+   
 ---
 
 Statistics and Data Science student at UCLA with interests in data analysis, statistical modeling, and applied machine learning. Outside of class, I enjoys 3D printing, basketball, and outdoor activities like hiking and snowboarding.
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA  
-B.S. in Statistics and Data Science | Expected March 2026  
+University of California, Los Angeles \| Los Angeles, CA\
+B.S. in Statistics and Data Science \| Expected March 2026
 
-Mt. San Antonio College | Walnut, CA  
-A.S. in Electronics and Computer Engineering Technology | June 2024  
+Mt. San Antonio College \| Walnut, CA\
+A.S. in Electronics and Computer Engineering Technology \| June 2024
 
 ## Experience
 
-Anker Innovations LTD | Product Tester | June 2025 – September 2025  
+Anker Innovations LTD \| Product Tester \| June 2025 – September 2025
 
-Cecilia Tech Inc | Executive Secretary & IT Support | June 2022 – August 2023  
+Cecilia Tech Inc \| Executive Secretary & IT Support \| June 2022 – August 2023
 
-Code Ninjas | Coding Instructor | April 2022 – June 2022  
+Code Ninjas \| Coding Instructor \| April 2022 – June 2022
