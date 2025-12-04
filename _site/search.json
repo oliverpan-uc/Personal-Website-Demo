@@ -4,14 +4,14 @@
     "href": "UCLA Projects.html",
     "title": "UCLA Projects",
     "section": "",
-    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Project 1"
+    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Projects"
   },
   {
     "objectID": "UCLA Projects.html#predicting-sleep-duration-from-a-persons-daily-information-research-for-introduction-to-data-analysis-and-regression",
     "href": "UCLA Projects.html#predicting-sleep-duration-from-a-persons-daily-information-research-for-introduction-to-data-analysis-and-regression",
     "title": "UCLA Projects",
     "section": "",
-    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Project 1"
+    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Projects"
   },
   {
     "objectID": "UCLA Projects.html#language-in-earnings-reports-and-stock-movement-research-project-ucla-econ-188c",
@@ -21,11 +21,11 @@
     "text": "Language in Earnings Reports and Stock Movement — Research Project, UCLA – Econ 188C\nInvestigated the relationship between CEO language in earnings call transcripts and short-term stock price movements using NLP techniques.\n\nCollected 56 earnings call transcripts from 7 companies over 2 years; filtered for CEO-prepared script only.\n\nApplied TF–IDF, chi-square keyness testing, and word embedding (GloVe) for feature extraction and classification.\n\nBuilt supervised classifiers using Random Forest and evaluated models using confusion matrices (TF–IDF model reached 63.64% accuracy).\n\nImplemented BERTopic for unsupervised topic clustering.\n\nFound that confident language correlated with stock price increases, while vague terms correlated with decreases.\n\nIdentified seasonal patterns: Q4 earnings calls (Jan–Feb) often followed by price increases; Q1 calls (April) by decreases.\n\nHere is my Project 2"
   },
   {
-    "objectID": "UCLA Projects.html#project-3",
-    "href": "UCLA Projects.html#project-3",
+    "objectID": "UCLA Projects.html#a-randomized-block-study-of-the-effects-of-classical-music-on-short-term-memory-in-elderly-populations-group-research-project-ucla",
+    "href": "UCLA Projects.html#a-randomized-block-study-of-the-effects-of-classical-music-on-short-term-memory-in-elderly-populations-group-research-project-ucla",
     "title": "UCLA Projects",
-    "section": "Project 3",
-    "text": "Project 3\nHere is my Project 3"
+    "section": "A Randomized Block Study of the Effects of Classical Music on Short-Term Memory in Elderly Populations — Group Research Project, UCLA",
+    "text": "A Randomized Block Study of the Effects of Classical Music on Short-Term Memory in Elderly Populations — Group Research Project, UCLA\n\nDesigned and implemented a matched-pairs / randomized block experiment with 100 participants aged 60+ to study short-term memory changes after listening to classical music.\n\nCollected pre- and post-treatment memory test scores plus demographic and lifestyle covariates (sleep hours, sex, anxiety level, music listening frequency, etc.).\n\nConducted paired t-tests, Wilcoxon signed-rank tests, and a linear regression model in R to quantify treatment effects and assess interactions with gender and anxiety.\n\nPerformed power analysis, model diagnostics (QQ plots, residual plots), and data visualizations (boxplots by sex and anxiety level) to validate assumptions and interpret findings.\n\nFound that classical music produced a statistically significant improvement in short-term memory, with especially strong gains for male participants and those with higher anxiety levels.\n\nHere is my Project 3"
   },
   {
     "objectID": "Projects/01-Project.html",

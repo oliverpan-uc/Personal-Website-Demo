@@ -12,7 +12,7 @@ toc: false
 - Demonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.  
 - Completed analysis using R.  
 
-Here is my [Project 1](/Projects/01-Project.qmd)
+Here is my [Projects](/Projects/01-Project.qmd)
 
 ## **Language in Earnings Reports and Stock Movement** — *Research Project, UCLA – Econ 188C*  
 
@@ -28,6 +28,12 @@ Investigated the relationship between CEO language in earnings call transcripts 
 
 Here is my [Project 2](/Projects/02-Project.qmd)
 
-## Project 3
+## **A Randomized Block Study of the Effects of Classical Music on Short-Term Memory in Elderly Populations** — *Group Research Project, UCLA*  
+
+- Designed and implemented a matched-pairs / randomized block experiment with 100 participants aged 60+ to study short-term memory changes after listening to classical music.  
+- Collected pre- and post-treatment memory test scores plus demographic and lifestyle covariates (sleep hours, sex, anxiety level, music listening frequency, etc.).  
+- Conducted paired t-tests, Wilcoxon signed-rank tests, and a linear regression model in R to quantify treatment effects and assess interactions with gender and anxiety.  
+- Performed power analysis, model diagnostics (QQ plots, residual plots), and data visualizations (boxplots by sex and anxiety level) to validate assumptions and interpret findings.  
+- Found that classical music produced a statistically significant improvement in short-term memory, with especially strong gains for male participants and those with higher anxiety levels.  
 
 Here is my [Project 3](/Projects/03-Project.qmd)
