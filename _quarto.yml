@@ -7,8 +7,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: Projects.qmd
-        text: Projects
+      - href: UCLA Projects.qmd
+        text: UCLA Projects
       
 page-footer:
 rights: "&copy; 2025, Oliver Pan"

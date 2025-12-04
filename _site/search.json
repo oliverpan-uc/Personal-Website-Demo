@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "UCLA Projects.html",
+    "href": "UCLA Projects.html",
+    "title": "UCLA Projects",
+    "section": "",
+    "text": "Here is my Project 1"
+  },
+  {
+    "objectID": "UCLA Projects.html#project-1",
+    "href": "UCLA Projects.html#project-1",
+    "title": "UCLA Projects",
+    "section": "",
+    "text": "Here is my Project 1"
+  },
+  {
+    "objectID": "UCLA Projects.html#project-2",
+    "href": "UCLA Projects.html#project-2",
+    "title": "UCLA Projects",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my Project 2"
+  },
+  {
+    "objectID": "UCLA Projects.html#project-3",
+    "href": "UCLA Projects.html#project-3",
+    "title": "UCLA Projects",
+    "section": "Project 3",
+    "text": "Project 3\nHere is my Project 3"
+  },
+  {
+    "objectID": "Projects/01-Project.html",
+    "href": "Projects/01-Project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "this is my project"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oliver Pan",
@@ -19,40 +54,5 @@
     "title": "Oliver Pan",
     "section": "Experience",
     "text": "Experience\nAnker Innovations LTD | Product Tester | June 2025 – September 2025\nCecilia Tech Inc | Executive Secretary & IT Support | June 2022 – August 2023\nCode Ninjas | Coding Instructor | April 2022 – June 2022"
-  },
-  {
-    "objectID": "Projects/01-Project.html",
-    "href": "Projects/01-Project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "this is my project"
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my Project 1"
-  },
-  {
-    "objectID": "Projects.html#project-1",
-    "href": "Projects.html#project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my Project 1"
-  },
-  {
-    "objectID": "Projects.html#project-2",
-    "href": "Projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my Project 2"
-  },
-  {
-    "objectID": "Projects.html#project-3",
-    "href": "Projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3\nHere is my Project 3"
   }
 ]
