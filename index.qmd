@@ -8,21 +8,26 @@ about:
     - icon: github
       text: Github
       href: https://github.com/oliverpan-uc
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/oliver-pan-07373a2b9/
 
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Statistics and Data Science student at UCLA with interests in data analysis, statistical modeling, and applied machine learning. Outside of class, I enjoys 3D printing, basketball, and outdoor activities like hiking and snowboarding.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA  
+B.S. in Statistics and Data Science | Expected March 2026  
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+Mt. San Antonio College | Walnut, CA  
+A.S. in Electronics and Computer Engineering Technology | June 2024  
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Anker Innovations LTD | Product Tester | June 2025 – September 2025  
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Cecilia Tech Inc | Executive Secretary & IT Support | June 2022 – August 2023  
+
+Code Ninjas | Coding Instructor | April 2022 – June 2022  
