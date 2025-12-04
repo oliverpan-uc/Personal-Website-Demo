@@ -9,4 +9,8 @@ Here is my [Project 1](/Projects/01-Project.qmd)
 
 ## Project 2
 
+Here is my [Project 2](/Projects/02-Project.qmd)
+
 ## Project 3
+
+Here is my [Project 3](/Projects/03-Project.qmd)
