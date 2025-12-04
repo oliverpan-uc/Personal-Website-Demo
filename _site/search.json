@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n2+2\n\n[1] 4"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "140XP Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.33293792 0.04438959 0.87607184 0.68503793 0.77063540 0.53729237\n [7] 0.69523886 0.14417738 0.96869391 0.47433225"
   }
 ]
