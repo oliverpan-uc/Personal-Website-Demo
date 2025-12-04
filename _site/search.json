@@ -4,21 +4,21 @@
     "href": "UCLA Projects.html",
     "title": "UCLA Projects",
     "section": "",
-    "text": "Here is my Project 1"
+    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Project 1"
   },
   {
-    "objectID": "UCLA Projects.html#project-1",
-    "href": "UCLA Projects.html#project-1",
+    "objectID": "UCLA Projects.html#predicting-sleep-duration-from-a-persons-daily-information-research-for-introduction-to-data-analysis-and-regression",
+    "href": "UCLA Projects.html#predicting-sleep-duration-from-a-persons-daily-information-research-for-introduction-to-data-analysis-and-regression",
     "title": "UCLA Projects",
     "section": "",
-    "text": "Here is my Project 1"
+    "text": "Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.\n\nExplored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.\n\nBuilt and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.\n\nKey findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.\n\nDemonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.\n\nCompleted analysis using R.\n\nHere is my Project 1"
   },
   {
-    "objectID": "UCLA Projects.html#project-2",
-    "href": "UCLA Projects.html#project-2",
+    "objectID": "UCLA Projects.html#language-in-earnings-reports-and-stock-movement-research-project-ucla-econ-188c",
+    "href": "UCLA Projects.html#language-in-earnings-reports-and-stock-movement-research-project-ucla-econ-188c",
     "title": "UCLA Projects",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my Project 2"
+    "section": "Language in Earnings Reports and Stock Movement — Research Project, UCLA – Econ 188C",
+    "text": "Language in Earnings Reports and Stock Movement — Research Project, UCLA – Econ 188C\nInvestigated the relationship between CEO language in earnings call transcripts and short-term stock price movements using NLP techniques.\n\nCollected 56 earnings call transcripts from 7 companies over 2 years; filtered for CEO-prepared script only.\n\nApplied TF–IDF, chi-square keyness testing, and word embedding (GloVe) for feature extraction and classification.\n\nBuilt supervised classifiers using Random Forest and evaluated models using confusion matrices (TF–IDF model reached 63.64% accuracy).\n\nImplemented BERTopic for unsupervised topic clustering.\n\nFound that confident language correlated with stock price increases, while vague terms correlated with decreases.\n\nIdentified seasonal patterns: Q4 earnings calls (Jan–Feb) often followed by price increases; Q1 calls (April) by decreases.\n\nHere is my Project 2"
   },
   {
     "objectID": "UCLA Projects.html#project-3",

@@ -3,11 +3,28 @@ title: "UCLA Projects"
 toc: false
 ---
 
-## Project 1
+## **Predicting Sleep Duration From a Person’s Daily Information** — *Research for Introduction to Data Analysis and Regression*  
+
+- Analyzed Sleep Health and Lifestyle dataset to assess how lifestyle variables affect sleep duration.  
+- Explored relationships using linear regression, power transformations, and model diagnostics to improve predictive accuracy.  
+- Built and refined multiple models (full, stepwise, and best subset) using transformed predictors to address non-linearity and heteroscedasticity.  
+- Key findings: Higher sleep quality and physical activity are positively associated with sleep duration, while age and daily steps show negative associations.  
+- Demonstrated expertise in model selection, residual analysis, and interpreting multivariable regression output.  
+- Completed analysis using R.  
 
 Here is my [Project 1](/Projects/01-Project.qmd)
 
-## Project 2
+## **Language in Earnings Reports and Stock Movement** — *Research Project, UCLA – Econ 188C*  
+
+Investigated the relationship between CEO language in earnings call transcripts and short-term stock price movements using NLP techniques.
+
+- Collected 56 earnings call transcripts from 7 companies over 2 years; filtered for CEO-prepared script only.  
+- Applied TF–IDF, chi-square keyness testing, and word embedding (GloVe) for feature extraction and classification.  
+- Built supervised classifiers using Random Forest and evaluated models using confusion matrices (TF–IDF model reached 63.64% accuracy).  
+- Implemented BERTopic for unsupervised topic clustering.  
+- Found that confident language correlated with stock price increases, while vague terms correlated with decreases.  
+- Identified seasonal patterns: Q4 earnings calls (Jan–Feb) often followed by price increases; Q1 calls (April) by decreases.  
+
 
 Here is my [Project 2](/Projects/02-Project.qmd)
 
