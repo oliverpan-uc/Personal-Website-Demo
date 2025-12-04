@@ -28,13 +28,6 @@
     "text": "A Randomized Block Study of the Effects of Classical Music on Short-Term Memory in Elderly Populations — Group Research Project, UCLA\n\nDesigned and implemented a matched-pairs / randomized block experiment with 100 participants aged 60+ to study short-term memory changes after listening to classical music.\n\nCollected pre- and post-treatment memory test scores plus demographic and lifestyle covariates (sleep hours, sex, anxiety level, music listening frequency, etc.).\n\nConducted paired t-tests, Wilcoxon signed-rank tests, and a linear regression model in R to quantify treatment effects and assess interactions with gender and anxiety.\n\nPerformed power analysis, model diagnostics (QQ plots, residual plots), and data visualizations (boxplots by sex and anxiety level) to validate assumptions and interpret findings.\n\nFound that classical music produced a statistically significant improvement in short-term memory, with especially strong gains for male participants and those with higher anxiety levels.\n\nHere is my Here is my Projects"
   },
   {
-    "objectID": "Projects/01-Project.html",
-    "href": "Projects/01-Project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "this is my project"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oliver Pan",
