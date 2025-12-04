@@ -17,6 +17,9 @@ about:
     - icon: Resume
       text: CV
       url: "Resume.pdf"
+    - icon: Resume
+      text: Resume
+      url: "Oliver Pan Resume.pdf"
    
 ---
 DOWNLOAD [CV](/Resume.pdf)
