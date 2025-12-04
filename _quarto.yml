@@ -7,7 +7,11 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Projects.qmd
+        text: Projects
+      
+page-footer:
+rights: "&copy; 2025, Oliver Pan"
 
 format:
   html:
