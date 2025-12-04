@@ -20,7 +20,8 @@ about:
    
 ---
 DOWNLOAD [CV](/Resume.pdf)
-DOWNLOAD [Resume](/2025_Resume.pdf)
+
+DOWNLOAD [Resume](/Oliver Pan Resume.pdf)
 
 Statistics and Data Science student at UCLA with interests in data analysis, statistical modeling, and applied machine learning. Outside of class, I enjoys 3D printing, basketball, and outdoor activities like hiking and snowboarding.
 
